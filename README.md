@@ -8,6 +8,9 @@ A mutation is basically an error that happens during the production or replicati
 Solution Step:
 
 1- Define Two DNA strings s and t, which must be of the same length. 
+
 2- In for loop will compare every symbol between the s, and t strings.
+
 3- if the symbol position is not the same in both strings the counter will increase.
+
 4- Finally, the code will print the number of Mutations between sequences.
